@@ -1,6 +1,6 @@
 theme            : template
 
-theme-background : [ "#222222" ]
+theme-background : [ "gray" ]
 theme-headline   : [ "Raleway", "white", "none" ]
 theme-byline     : [ "Raleway", "#C0C0C0", "none" ]
 theme-text       : [ "Ubuntu", "#0060F0", "none" ]
