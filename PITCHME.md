@@ -17,7 +17,9 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/c/ca/Atom_icon.png)
 @snapend
 
+@snap[south]
 -> 便利なテクやExtensionを情報交換しましょう!
+@snapend
 
 +++
 
