@@ -14,7 +14,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/384px-Visual_Studio_Code_1.35_icon.svg.png)
 @snapend
 @snap[east span-50]
-![](https://upload.wikimedia.org/wikipedia/commons/c/ca/Atom_icon.png)
+![](https://upload.wikimedia.org/wikipedia/commons/c/ca/Atom_icon.png)|
 @snapend
 
 @snap[south]
@@ -23,15 +23,26 @@
 
 +++
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1280px-Vimlogo.svg.png)![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Emacs-logo.svg/956px-Emacs-logo.svg.png)
+@snap[west span-50]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1280px-Vimlogo.svg.png)
+@snapend
+@snap[east span-50]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Emacs-logo.svg/956px-Emacs-logo.svg.png)|
+@snapend
 
+@snap[south]
 -> 心に決めた相手と添い遂げてください
+@snapend
 
 +++
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png)
+@snap[midpoint span-50]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png)|
+@snapend
 
+@snap[south]
 -> モダンなエディタ/IDEの便利さを知って欲しい!
+@snapend
 
 ---
 
