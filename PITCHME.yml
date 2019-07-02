@@ -1,4 +1,4 @@
-theme            : template
+theme            : night
 
 theme-background : [ "black" ]
 theme-headline   : [ "Raleway", "white", "none" ]
@@ -14,4 +14,4 @@ highlight        : ir-black
 
 footnote : "2019/07/03 社内LT会 Akira TSURUDA"
 
-# transition : fade
+transition : fade
