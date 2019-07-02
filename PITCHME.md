@@ -10,7 +10,12 @@
 
 +++
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/384px-Visual_Studio_Code_1.35_icon.svg.png) ![](https://upload.wikimedia.org/wikipedia/commons/c/ca/Atom_icon.png)
+@snap[west span-50]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/384px-Visual_Studio_Code_1.35_icon.svg.png)
+@snapend
+@snap[east span-50]
+![](https://upload.wikimedia.org/wikipedia/commons/c/ca/Atom_icon.png)
+@snapend
 
 -> 便利なテクやExtensionを情報交換しましょう!
 
