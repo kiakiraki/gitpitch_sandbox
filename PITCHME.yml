@@ -1,4 +1,4 @@
-theme            : night
+theme            : template
 
 theme-background : [ "black" ]
 theme-headline   : [ "Raleway", "white", "none" ]
