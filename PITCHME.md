@@ -10,11 +10,11 @@
 
 +++
 
-@snap[west span-50]
+@snap[west span-30]
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/384px-Visual_Studio_Code_1.35_icon.svg.png)
 @snapend
-@snap[east span-50]
-![](https://upload.wikimedia.org/wikipedia/commons/c/ca/Atom_icon.png)
+@snap[east span-40]
+![](https://upload.wikimedia.org/wikipedia/commons/c/ca/Atom_icon.png) |
 @snapend
 
 @snap[south]
@@ -23,11 +23,11 @@
 
 +++
 
-@snap[west span-50]
+@snap[west span-40]
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1280px-Vimlogo.svg.png)
 @snapend
-@snap[east span-50]
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Emacs-logo.svg/956px-Emacs-logo.svg.png)
+@snap[east span-40]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Emacs-logo.svg/956px-Emacs-logo.svg.png) |
 @snapend
 
 @snap[south]
@@ -36,7 +36,7 @@
 
 +++
 
-@snap[midpoint span-50]
+@snap[midpoint span-40]
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png)
 @snapend
 
