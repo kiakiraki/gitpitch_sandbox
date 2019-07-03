@@ -1,6 +1,6 @@
 theme            : template
 
-theme-background : [ "black" ]
+theme-background : [ "#000" ]
 theme-headline   : [ "Raleway", "white", "none" ]
 theme-byline     : [ "Raleway", "#C0C0C0", "none" ]
 theme-text       : [ "Ubuntu", "#0060F0", "none" ]
@@ -15,3 +15,5 @@ highlight        : ir-black
 footnote : "2019/07/03 社内LT会 Akira TSURUDA"
 
 transition : fade
+
+slide-number: true

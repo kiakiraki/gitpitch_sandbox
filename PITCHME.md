@@ -65,7 +65,7 @@
 * Gitサポート
 * Extensionによる機能拡張 etc...
 
-~~AtomやSublime Textで出来ることはだいたい出来る~~
+AtomやSublime Textで出来ることはだいたい出来る
 
 +++
 
@@ -73,6 +73,7 @@
 
 * 機械学習エンジニア向けの便利機能
 * Python開発向けの便利機能
+
 
 [公式のPythonチュートリアル](https://code.visualstudio.com/docs/python/python-tutorial)が充実しているので､使い始めたい時はまずここを見ましょう
 
@@ -88,18 +89,20 @@
 
 ### Jupyter Support
 
-@snap[west]
+@snap[north-west]
 ![](https://code.visualstudio.com/assets/docs/python/jupyter/code-cells-01.png)
 @snapend
-@snap[east]
+@snap[north-east]
 ![](https://code.visualstudio.com/assets/docs/python/jupyter/code-cells-02.png)
 @snapend
 
 
 @snap[south]
+
 * `#%%` で囲った範囲をJupyterのCellとして実行可能
 * 実行結果はnotebookとしてExport可能
 * 既存のnotebookのImportも可能
+
 @snapend
 
 +++
