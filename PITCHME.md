@@ -18,7 +18,7 @@
 @snapend
 
 @snap[south]
-\- -> 便利なテクやExtensionを情報交換しましょう! |
+-> 便利なテクやExtensionを情報交換しましょう!
 @snapend
 
 +++
@@ -31,7 +31,7 @@
 @snapend
 
 @snap[south]
-- -> 心に決めた相手と添い遂げてください |
+-> 心に決めた相手と添い遂げてください
 @snapend
 
 +++
@@ -41,7 +41,7 @@
 @snapend
 
 @snap[south]
-- -> モダンなエディタ/IDEの便利さを知って欲しい! |
+-> モダンなエディタ/IDEの便利さを知って欲しい!
 @snapend
 
 ---
@@ -65,7 +65,7 @@
 * Gitサポート
 * Extensionによる機能拡張 etc...
 
-- AtomやSublime Textで出来ることはだいたい出来る |
+AtomやSublime Textで出来ることはだいたい出来る
 
 +++
 
@@ -81,6 +81,8 @@
 
 ## 機械学習エンジニア向けの便利機能
 
+元々はWeb開発向けのエディタだが､Pythonサポートが非常に充実
+
 #### Jupyter Support
 
 #### Remote Development
@@ -89,21 +91,34 @@
 
 ### Jupyter Support
 
-@snap[north-west]
-![](https://code.visualstudio.com/assets/docs/python/jupyter/code-cells-01.png)
-@snapend
-@snap[north-east]
-![](https://code.visualstudio.com/assets/docs/python/jupyter/code-cells-02.png)
-@snapend
-
-
-@snap[south]
-
 * `#%%` で囲った範囲をJupyterのCellとして実行可能
 * 実行結果はnotebookとしてExport可能
 * 既存のnotebookのImportも可能
 
-@snapend
+簡単なDemoを見せます
 
 +++
 
+#### Jupyterと比べて何がいいのか
+
+* 編集機能やコード補完が圧倒的に優秀
+* Gitで差分管理しやすい(普通のPythonコードなので)
+* Debugしやすい
+
++++
+
+### Remote Development
+
+* エディタをリモート環境へ接続し､コード編集/実行/Debugができる
+* GPUサーバで動くコードを書く時にめっちゃ便利
+
+簡単なDemoを見せます
+
+---
+
+## その他の便利機能
+
+* Python仮想環境管理
+* unittestサポート
+* Linterサポート
+* Type Hintsサポート
