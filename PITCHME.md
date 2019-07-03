@@ -65,8 +65,6 @@
 * Gitサポート
 * Extensionによる機能拡張 etc...
 
-AtomやSublime Textで出来ることはだいたい出来る
-
 +++
 
 ### 今回紹介したいこと
@@ -80,8 +78,6 @@ AtomやSublime Textで出来ることはだいたい出来る
 ---
 
 ## 機械学習エンジニア向けの便利機能
-
-元々はWeb開発向けのエディタだが､Pythonサポートが非常に充実
 
 #### Jupyter Support
 
