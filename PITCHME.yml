@@ -16,4 +16,3 @@ theme-links      : [ "#E27924", "#FF851B" ]
 theme-code       : [ "Fira Code" ]
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
-
