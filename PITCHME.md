@@ -18,7 +18,7 @@
 @snapend
 
 @snap[south]
--> 便利なテクやExtensionを情報交換しましょう!
+\- -> 便利なテクやExtensionを情報交換しましょう! |
 @snapend
 
 +++
@@ -31,7 +31,7 @@
 @snapend
 
 @snap[south]
--> 心に決めた相手と添い遂げてください
+\- -> 心に決めた相手と添い遂げてください |
 @snapend
 
 +++
@@ -41,7 +41,7 @@
 @snapend
 
 @snap[south]
--> モダンなエディタ/IDEの便利さを知って欲しい!
+\- -> モダンなエディタ/IDEの便利さを知って欲しい! |
 @snapend
 
 ---
@@ -65,7 +65,7 @@
 * Gitサポート
 * Extensionによる機能拡張 etc...
 
-AtomやSublime Textで出来ることはだいたい出来る
+\- AtomやSublime Textで出来ることはだいたい出来る |
 
 +++
 
